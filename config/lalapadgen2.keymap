@@ -84,7 +84,7 @@
 &kp NUMBER_6      &kp N7             &kp N8        &kp N9        &kp N0                    &trans            &kp KP_NUMBER_4    &kp KP_NUMBER_5  &kp KP_NUMBER_6  &kp KP_MINUS
 &kp F6            &kp F7             &kp F8        &kp F9        &kp F10                   &trans            &kp KP_NUMBER_1    &kp KP_NUMBER_2  &kp KP_NUMBER_3  &kp KP_ASTERISK
 // &trans            &trans             &trans        &trans        &trans   &trans  &kp DEL  &trans            &trans             &kp KP_NUMBER_0  &kp KP_DOT       &kp KP_DIVIDE
-&kp C_VOL_UP      &kp C_VOL_DN       &kp C_MUTE    &trans        &trans   &trans  &kp DEL  &trans            &trans             &kp KP_NUMBER_0  &kp KP_DOT       &kp KP_DIVIDE
+&trans            &trans             &trans        &trans        &trans   &trans  &kp DEL  &trans            &trans             &kp KP_NUMBER_0  &kp KP_DOT       &kp KP_DIVIDE
                   &trans             &trans        &trans        &trans   &trans  &trans   &trans            &trans             &trans           &trans
 &trans            &trans             &trans                                                                                     &trans           &trans           &trans
 &kp LC(LG(LEFT))  &kp LC(LG(RIGHT))  &trans        &trans        &trans                    &kp LC(LG(LEFT))  &kp LC(LG(RIGHT))  &trans           &trans           &trans
@@ -98,7 +98,7 @@
 &kp CARET        &kp AMPERSAND  &kp ASTERISK  &kp LEFT_PARENTHESIS  &kp RIGHT_PARENTHESIS                  &kp PAGE_DOWN  &kp LEFT  &kp DOWN_ARROW  &kp RIGHT  &kp SCROLLLOCK
 &kp GRAVE        &kp SQT        &kp SEMI      &kp LEFT_BRACKET      &kp RIGHT_BRACKET                      &trans         &mkp MB4  &trans          &mkp MB5   &kp PAUSE_BREAK
 // &trans           &trans         &trans        &trans                &trans                 &trans  &trans  &trans         &trans    &trans          &trans     &trans
-&kp LC(LG(N3))   &kp LC(LG(N4))    &trans        &trans                &trans                 &trans  &trans  &trans         &trans    &trans          &trans     &trans
+&kp C_VOL_UP     &kp C_VOL_DN   &kp C_MUTE        &trans                &trans                 &trans  &trans  &trans         &trans    &trans          &trans     &trans
                  &trans         &trans        &trans                &trans                 &trans  &trans  &trans         &trans    &trans          &trans
 &trans           &trans         &trans                                                                                              &trans          &trans     &trans
 &trans           &trans         &trans        &trans                &trans                                 &trans         &trans    &trans          &trans     &trans
